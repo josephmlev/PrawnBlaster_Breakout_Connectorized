@@ -19,7 +19,7 @@ SMD passive components are no smaller than 0805 to facilitate hand soldering.
 ## Screenshots
 The following screenshots are taken from Kicad
 
-<img src="./prawnBlaster3dRender.png" alt="PrawnBlaster 3D Render" width="600">
+<img src="./prawnBlaster3dRenderWithPi.png" alt="PrawnBlaster 3D Render" width="600">
 
 <img src="./prawnBlasterPcb.png" alt="PrawnBlaster PCB Layout" width="600">
 Note: Scale on left is in mm. PCB is about 58 x 93mm.
